@@ -8,3 +8,7 @@ This repository is built step by step in the tutorial.
 new line.
 
 another new line.
+
+one new line for html-skeleton branch
+
+another line for update-readme
